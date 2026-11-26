@@ -16,6 +16,9 @@
             <MenuItem Header="_Remove Question"/>
             <MenuItem Header="Pack _Options" InputGestureText="Ctrl+O"/>
         </MenuItem>
-
+        <MenuItem Header="_View">
+            <MenuItem Header="_Play"/>
+            <MenuItem Header="_Edit"/>
+        </MenuItem>
     </Menu>
 </UserControl>
