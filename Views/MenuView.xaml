@@ -11,5 +11,11 @@
             <MenuItem Header="_New Question Pack" InputGestureText="Ctrl+N"/>
             <MenuItem Header="E_xit" InputGestureText="Alt+F4"/>
         </MenuItem>
+        <MenuItem Header="_Edit">
+            <MenuItem Header="_Add Question"/>
+            <MenuItem Header="_Remove Question"/>
+            <MenuItem Header="Pack _Options" InputGestureText="Ctrl+O"/>
+        </MenuItem>
+
     </Menu>
 </UserControl>
